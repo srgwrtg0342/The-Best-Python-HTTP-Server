@@ -26,4 +26,4 @@ In the case of adding new elements, write on the eighth line after '/index.html'
 
 https://user-images.githubusercontent.com/99070713/152635289-8d744cdd-6509-40bd-b186-1787997cad22.mp4
 
-As you can see, these video and photo materials show a demonstration of the work of this repository, which means you can sleep peacefully, knowing that your site is working - as long as the computer is on. Remember - this is just a temporary measure for your sites, I'll be introducing domain names soon so you don't have to worry about anything. And yes - please donate to me for bread, MasterCard = 5167 7559 0454 1717
+As you can see, these video and photo materials show a demonstration of the work of this repository, which means you can sleep peacefully, knowing that your site is working - as long as the computer is on. Remember - this is just a temporary measure for your sites, I'll be introducing domain names soon so you don't have to worry about anything. And yes - please donate to me for bread, MasterCard = 5168 7559 0454 1717
