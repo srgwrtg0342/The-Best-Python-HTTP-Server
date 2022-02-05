@@ -5,7 +5,7 @@ import codecs, time
 class Server(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path == '/':
-            self.path = '/index.html', "/nicepage.css" , "/nicepage.js" , "/jquery.js" , "/glavn.html" , "/glavn.css" , "/images/photo.png", "/photo.png"
+            self.path = '/index.html'
         try:
             file_to_open = codecs.open(self.path[1:], "r", "UTF-8").read()
             self.send_response(200)
