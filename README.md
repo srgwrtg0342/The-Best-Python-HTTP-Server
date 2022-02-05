@@ -1,4 +1,4 @@
-# The-Best-Python-HTTP-Server
+# Лучший HTTP сервер на Python RU
 Привет! Это лучший и одновременно простейший http сервер на языке программирования python, который позволяет видеть сайт и использовать вёрстку для создания html,css,js и т.д! Я могу пожелать вам удачи в использовании!
 # Инструкция использования
 Открыть порт 55555 на вашем вай-фай роутере, использовать Windows 10, а так же открыть скрипт и вписать ваш IPV4 - Как его узнать? Открываем cmd.exe, пишем ipconfig, далее находим пункт - Адаптер беспроводной локальной сети Беспроводная сеть - и находим под-пункт IPV4 - Копируем его значение и вставляем! Затем мы должны узнать внешний айпи-адрес роутера, это вы можете сделать с помощью сервиса 2ip. Заменяете локальный айпи компьютера в ссылке на внешний айпи-адрес сети и всё! Ваш сайт готов к использованию!
@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/99070713/152635289-8d744cdd-6509-40bd-
 
 Как видите на этих видео и фото материалах показана демонстрация работы данного репозитория, что значит вы спокойно можете спать, зная что ваш сайт работает - пока компьютер включён. Помните - это лишь временная мера для ваших сайтов, я скоро введу доменные имена, поэтому вам не будет не о чём беспокоиться. И да - прошу задонатить мне на хлеб, карта MasterCard = 5168 7559 0454 1717 
 
-# The-Best-Python-HTTP-Server
+# The best HTTP server in Python EN
 Hey! This is the best and at the same time the simplest http server in the python programming language, which allows you to see the site and use the layout to create html, css, js, etc! I can wish you good luck in using!
 # Instructions for use
 Open port 55555 on your wi-fi router, use Windows 10, and open the script and enter your IPV4 - How to recognize it? Open cmd.exe, write ipconfig, then find the item - Wireless LAN Adapter Wireless Network - and find the sub-item IPV4 - Copy its value and paste it! Then we need to find out the external IP address of the router, you can do this using the 2ip service. Replace the local ip of the computer in the link with the external ip address of the network and that's it! Your site is ready to use!
